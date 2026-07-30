@@ -1,4 +1,5 @@
 from turtle import *
+circle(150)
 color('green', 'blue')
 begin_fill()
 while True:
