@@ -1,0 +1,16 @@
+I tried to git stash drop my problems. Turns out there's no reflog for that.
+Git is the only place where "detached HEAD" is a warning and not a medical emergency.
+My commit message said "fix". My commit message from three days later also said "fix". Neither of us was fixing anything.
+git blame is a beautiful name for a tool. No sugarcoating, no "git attribution history". Just: whose fault.
+I asked a friend what a submodule was. He went quiet, looked past me, and changed the subject.
+rm -rf .git is the fastest way to get a clean git status.
+Branch named main. Branch named main-final. Branch named main-final-ACTUAL. Somewhere, version control is quietly weeping.
+Merge conflicts are just two people who were both right at different times.
+Everyone's Git workflow is "google the command, paste it, don't ask why it worked."
+git push --force is the command equivalent of "trust me."
+There are two ways to learn about the reflog: reading the docs, or the other way.
+I named a branch test. Two weeks later I had no idea what it was testing. The branch is still there. It will outlive me.
+.gitignore should really be called things-I-swear-I-will-clean-up-later.
+Committing directly to main is fine, right up until the moment it isn't, and by then it's already pushed.
+Nobody has ever run git rebase -i on the first try and gotten what they expected.
+Git has a command called cherry-pick, which sounds delightful and has ruined more afternoons than any other verb in the tool.
