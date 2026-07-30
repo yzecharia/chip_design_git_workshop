@@ -1,10 +1,9 @@
 from turtle import *
-<<<<<<< HEAD
+import random
+pencolor([random.random() for i in range(3)])
 shape("turtle")
 delay(5)
-=======
 width(8)
->>>>>>> pwn_width
 color('green', 'blue')
 begin_fill()
 while True:
