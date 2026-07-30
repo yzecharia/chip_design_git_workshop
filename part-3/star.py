@@ -1,4 +1,5 @@
 from turtle import *
+delay(5)
 color('green', 'blue')
 begin_fill()
 while True:
