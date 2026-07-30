@@ -1,0 +1,8 @@
+I tried to git stash drop my problems. Turns out there's no reflog for that.
+Git is the only place where "detached HEAD" is a warning and not a medical emergency.
+My commit message said "fix". My commit message from three days later also said "fix". Neither of us was fixing anything.
+git blame is a beautiful name for a tool. No sugarcoating, no "git attribution history". Just: whose fault.
+I asked a friend what a submodule was. He went quiet, looked past me, and changed the subject.
+rm -rf .git is the fastest way to get a clean git status.
+Branch named main. Branch named main-final. Branch named main-final-ACTUAL. Somewhere, version control is quietly weeping.
+Merge conflicts are just two people who were both right at different times.
