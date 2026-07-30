@@ -1,4 +1,5 @@
 from turtle import *
+shape("turtle")
 delay(5)
 color('green', 'blue')
 begin_fill()
