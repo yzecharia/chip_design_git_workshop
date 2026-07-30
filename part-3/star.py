@@ -4,6 +4,7 @@ pencolor([random.random() for i in range(3)])
 shape("turtle")
 delay(5)
 width(8)
+circle(150)
 color('green', 'blue')
 begin_fill()
 while True:
