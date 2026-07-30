@@ -1,0 +1,13 @@
+iCountries By ABC
+----------------
+Canada: Ottawa
+Denmark: Copenhagen
+Egypt: Cairo
+France: Paris
+Germany: Berlin
+Hungary: Budapest
+India: New Delhi
+Japan: Tokyo
+Kenya: Nairobi
+Lebanon: Beirut
+Mexico: Mexico City

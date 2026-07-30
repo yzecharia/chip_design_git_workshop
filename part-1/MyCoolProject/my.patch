@@ -1,0 +1,16 @@
+1c1
+< Countries By ABC
+---
+> iCountries By ABC
+3,5c3
+< Australia: Canberra
+< Brazil: Brasilia
+< China: Beijing
+---
+> Canada: Ottawa
+13c11,13
+< 
+---
+> Kenya: Nairobi
+> Lebanon: Beirut
+> Mexico: Mexico City
