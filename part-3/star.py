@@ -1,6 +1,10 @@
 from turtle import *
+<<<<<<< HEAD
 shape("turtle")
 delay(5)
+=======
+width(8)
+>>>>>>> pwn_width
 color('green', 'blue')
 begin_fill()
 while True:
