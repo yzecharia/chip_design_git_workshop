@@ -1,4 +1,5 @@
 from turtle import *
+width(8)
 color('green', 'blue')
 begin_fill()
 while True:
