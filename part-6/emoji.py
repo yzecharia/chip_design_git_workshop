@@ -1,2 +1,2 @@
-print('\N{balloon}')
+print('\N{snail}')
 
